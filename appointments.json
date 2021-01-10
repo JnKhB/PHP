@@ -1,0 +1,228 @@
+{
+    "appid1": {
+        "id": "appid1",
+        "time": "2021-01-05 15:00",
+        "places": "5",
+        "applicant": [
+            "userid2",
+            "userid4"
+        ]
+    },
+    "appid2": {
+        "id": "appid2",
+        "time": "2021-01-15 15:00",
+        "places": "5",
+        "applicant": [
+            "userid1",
+            "userid3"
+        ]
+    },
+    "appid3": {
+        "id": "appid3",
+        "time": "2021-01-25 15:00",
+        "places": "7",
+        "applicant": [
+            "userid10",
+            "userid30",
+            "userid33",
+            "userid11",
+            "userid122"
+        ]
+    },
+    "appid4": {
+        "id": "appid4",
+        "time": "2021-01-30 16:00",
+        "places": "2",
+        "applicant": [
+            "userid00",
+            "userid001"
+        ]
+    },
+    "appid22": {
+        "id": "appid22",
+        "time": "2021-02-25 15:00",
+        "places": "5",
+        "applicant": [
+            "userid11",
+            "userid32"
+        ]
+    },
+    "appid28": {
+        "id": "appid28",
+        "time": "2021-02-30 16:00",
+        "places": "5",
+        "applicant": [
+            "userid0",
+            "userid01"
+        ]
+    },
+    "appid30": {
+        "id": "appid30",
+        "time": "2021-03-15 15:00",
+        "places": "5",
+        "applicant": [
+            "userid1",
+            "userid31"
+        ]
+    },
+    "appid38": {
+        "id": "appid38",
+        "time": "2021-03-25 15:00",
+        "places": "5",
+        "applicant": [
+            "userid11",
+            "userid32"
+        ]
+    },
+    "appid36": {
+        "id": "appid36",
+        "time": "2021-03-30 16:00",
+        "places": "5",
+        "applicant": [
+            "userid0",
+            "userid01"
+        ]
+    },
+    "appid40": {
+        "id": "appid40",
+        "time": "2021-04-01 15:00",
+        "places": "5",
+        "applicant": [
+            "userid41",
+            "userid42"
+        ]
+    },
+    "appid42": {
+        "id": "appid42",
+        "time": "2021-04-25 15:00",
+        "places": "3",
+        "applicant": [
+            "userid48",
+            "userid49"
+        ]
+    },
+    "appid50": {
+        "id": "appid50",
+        "time": "2021-05-30 16:00",
+        "places": "2",
+        "applicant": [
+            "userid51",
+            "userid52"
+        ]
+    },
+    "appid60": {
+        "id": "appid60",
+        "time": "2021-06-01 16:00",
+        "places": "8",
+        "applicant": [
+            "userid61",
+            "userid62",
+            "useriid64",
+            "userid66"
+        ]
+    },
+    "appid61": {
+        "id": "appid61",
+        "time": "2021-06-02 16:00",
+        "places": "7",
+        "applicant": [
+            "userid68",
+            "userid69",
+            "userid66",
+            "userid601"
+        ]
+    },
+    "appid62": {
+        "id": "appid62",
+        "time": "2021-06-03 16:00",
+        "places": "5",
+        "applicant": [
+            "userid61",
+            "userid62",
+            "userid63"
+        ]
+    },
+    "appid63": {
+        "id": "appid63",
+        "time": "2021-06-04 16:00",
+        "places": "5",
+        "applicant": [
+            "userid61",
+            "userid611"
+        ]
+    },
+    "5ff6313483e5f": {
+        "id": "5ff6313483e5f",
+        "time": "2021-01-06 10:00",
+        "places": "2",
+        "applicant": [
+            "5fea3ea51a788",
+            "5fea3edca82d8",
+            "userid2"
+        ]
+    },
+    "5ff6314e6e195": {
+        "id": "5ff6314e6e195",
+        "time": "2021-02-06 12:00",
+        "places": "10",
+        "applicant": [
+            "5fea3ea51a788",
+            "5fea3edca82d8"
+        ]
+    },
+    "5ff6fe3cbc748": {
+        "id": "5ff6fe3cbc748",
+        "time": "2021-01-13 14:27",
+        "places": "3",
+        "applicant": [
+            "5fea3ea51a788",
+            "5fea3edca82d8"
+        ]
+    },
+    "5ff71724a99a5": {
+        "id": "5ff71724a99a5",
+        "time": "2021-01-07 17:13",
+        "places": "4",
+        "applicant": [
+            "userid61",
+            "userid62",
+            "userid63"
+        ]
+    },
+    "5ff7174d9bd55": {
+        "id": "5ff7174d9bd55",
+        "time": "2021-04-22 17:16",
+        "places": "4",
+        "applicant": [
+            "5fea3ea51a788",
+            "5fea3edca82d8"
+        ]
+    },
+    "5ff717ae5c86f": {
+        "id": "5ff717ae5c86f",
+        "time": "2021-05-08 15:16",
+        "places": "3",
+        "applicant": [
+            "5fea3ea51a788",
+            "5fea3edca82d8"
+        ]
+    },
+    "5ff717f471ca3": {
+        "id": "5ff717f471ca3",
+        "time": "2021-05-22 15:18",
+        "places": "3",
+        "applicant": [
+            "userid2",
+            "userid4"
+        ]
+    },
+    "5ff71812e5c77": {
+        "id": "5ff71812e5c77",
+        "time": "2021-01-21 17:17",
+        "places": "10",
+        "applicant": [
+            "userid2",
+            "userid4"
+        ]
+    }
+}

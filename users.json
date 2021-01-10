@@ -1,0 +1,87 @@
+{
+    "admin": {
+        "id": "admin",
+        "email": "admin@nemkovid.hu",
+        "password": "admin"
+    },
+    "userid2": {
+        "id": "userid2",
+        "taj": "123456789",
+        "name": "Huba Janek",
+        "address": "Medve utca 19.",
+        "password": "$2y$10$0OjQNYg\/fKZ0KJiljFWU2u0SzcMOCh1IU2mSV.CFLIPQrOsis9.oy",
+        "email": "janekhuba@yahoo.com"
+    },
+    "userid4": {
+        "id": "userid4",
+        "taj": "001100111",
+        "name": "Bog\u00e1ncs Gitta",
+        "address": "Medve utca",
+        "password": "$2y$10$JVKRKKKptkrE\/IJrFVw9z.uqtBxkw5\/nVortOvCM7QehMLcGIXJQC",
+        "email": "bogancsgitta@yahoo.com"
+    },
+    "userid3": {
+        "id": "userid3",
+        "taj": "111222333",
+        "name": "Huba Janek",
+        "address": "Medve utca",
+        "password": "$2y$10$.SBX2l76QX3cknlWP\/6VMuby\/lsukwaxTJa4kN0cnYZs8L0nuQB5O",
+        "email": "janekhuba11@yahoo.com"
+    },
+    "userid1": {
+        "id": "userid1",
+        "taj": "111222222",
+        "name": "Huba Janek",
+        "address": "Medve utca",
+        "password": "$2y$10$.SBX2l76QX3cknlWP\/6VMuby\/lsukwaxTJa4kN0cnYZs8L0nuQB5O",
+        "email": "janekhuba1100@yahoo.com"
+    },
+    "userid31": {
+        "id": "userid31",
+        "taj": "111222333",
+        "name": "Huba Janek",
+        "address": "Medve utca",
+        "password": "$2y$10$KlKQrtad.rcEYRIQMuaTxuvtDqiHt7Obc6qWjUtCR9lN6wCu.Uln.",
+        "email": "janekhuba1111@yahoo.com"
+    },
+    "userid61": {
+        "id": "userid61",
+        "taj": "000111222",
+        "name": "Huba Janek",
+        "address": "Medve utca",
+        "password": "$2y$10$396Hn7J4ZbQCl5pqcHU\/DuLH68qNjnmyc1hqoG6X8Gsfub9xXAooW",
+        "email": "janekhub11a@yahoo.com"
+    },
+    "5fea3e57f0747": {
+        "id": "5fea3e57f0747",
+        "taj": "111222333",
+        "name": "Huba Janek",
+        "address": "Medve utca",
+        "password": "$2y$10$2ng8GrE2mVaOjoq5uNqYhuOhRTRuzR8mYnDp9SnyMIt7HaftpN4cu",
+        "email": "janekhuba121212@yahoo.com"
+    },
+    "5fea3ea51a788": {
+        "id": "5fea3ea51a788",
+        "taj": "111222333",
+        "name": "Huba Janek",
+        "address": "Medve utca",
+        "password": "$2y$10$N6oJDQ6gBv157CamB72zbONqib0d4VYfB3OewBcr6i4ZtmHKSQXey",
+        "email": "janekhuba11111@yahoo.com"
+    },
+    "5fea3edca82d8": {
+        "id": "5fea3edca82d8",
+        "taj": "111222333",
+        "name": "Huba Janek",
+        "address": "Medve utca",
+        "password": "$2y$10$1CZZ5OqFjdvgOyAVkc9t8uzyLfZM3HTegEJxrirsmYdS97KY92XFu",
+        "email": "j1111anekhuba@yahoo.com"
+    },
+    "5fea3f1f6d5d2": {
+        "id": "5fea3f1f6d5d2",
+        "taj": "111222333",
+        "name": "Huba Janek",
+        "address": "Medve utca",
+        "password": "$2y$10$X0votAtUJTATkC9xiC3t3uiTryZqIglHTZ\/GWBb193d8R6rXSZk1i",
+        "email": "janekhuba00000@yahoo.com"
+    }
+}
